@@ -5,7 +5,6 @@
 		{"id":"8892f3b3ffe07e52","type":"text","text":"Datos Estructurados","x":-1665,"y":-1260,"width":250,"height":50},
 		{"id":"5d3108fd16de0261","type":"text","text":"Datos No Estructurados","x":-1665,"y":-1130,"width":250,"height":60},
 		{"id":"068a97971ba679b5","type":"text","text":"Datos Abiertos","x":-1665,"y":-1000,"width":250,"height":60},
-		{"id":"dcb3ab92319fe712","type":"text","text":"Big Data","x":-1665,"y":-830,"width":250,"height":60},
 		{"id":"3ff66df3fa59013c","type":"text","text":"Toma de Decisiones","x":-260,"y":490,"width":250,"height":50},
 		{"id":"10c275f88f3c2d27","type":"text","text":"Arco Narrativo","x":-775,"y":490,"width":250,"height":60},
 		{"id":"1bc97506bde354da","type":"text","text":"Infografía","x":-525,"y":660,"width":250,"height":60},
@@ -15,7 +14,6 @@
 		{"id":"6b304ec164bce097","type":"file","file":"Conceptos/Conocimiento.md","x":-80,"y":-1635,"width":400,"height":400},
 		{"id":"1f2e1f5bc3f48c8e","type":"text","text":"Alfabetización en Datos","x":-1665,"y":-220,"width":250,"height":60},
 		{"id":"c0ddc8bec297321d","type":"text","text":"Perfil Ejecutivo o Técnico","x":-1665,"y":120,"width":250,"height":60},
-		{"id":"593e6cd94f688eef","type":"text","text":"Tipos de Datos","x":-1665,"y":-1420,"width":250,"height":60},
 		{"id":"6688a38a2f0a015c","type":"file","file":"Conceptos/Diseño de información.md","x":-80,"y":-120,"width":400,"height":400},
 		{"id":"f132c794ac95a9c1","type":"file","file":"Conceptos/Datos.md","x":-1175,"y":-1410,"width":400,"height":400},
 		{"id":"d76fe69f91a0fd6d","type":"file","file":"Conceptos/Calidad de Datos.md","x":480,"y":-1400,"width":400,"height":400},
@@ -27,7 +25,9 @@
 		{"id":"93197f37e6529af0","type":"file","file":"Conceptos/Comunicación Visual.md","x":480,"y":-190,"width":400,"height":400},
 		{"id":"1a42b7a3e7fb3097","type":"file","file":"Conceptos/Proceso de Trabajo con Datos.md","x":480,"y":-830,"width":400,"height":400},
 		{"id":"f414091acbc5e81a","type":"file","file":"Conceptos/Herramientas de Visualización.md","x":-1175,"y":-830,"width":400,"height":400},
-		{"id":"7ddab3e2ecb66fb0","type":"file","file":"Conceptos/Usuarios.md","x":-1240,"y":-250,"width":400,"height":400}
+		{"id":"7ddab3e2ecb66fb0","type":"file","file":"Conceptos/Usuarios.md","x":-1240,"y":-250,"width":400,"height":400},
+		{"id":"dcb3ab92319fe712","type":"text","text":"Big Data","x":-1665,"y":-860,"width":250,"height":60},
+		{"id":"593e6cd94f688eef","type":"text","text":"Tipos de Datos","x":-1665,"y":-1400,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"c7d34591f0f53754","fromNode":"f132c794ac95a9c1","fromSide":"left","toNode":"068a97971ba679b5","toSide":"right","label":"Permite"},
