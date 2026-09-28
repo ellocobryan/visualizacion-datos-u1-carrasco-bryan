@@ -11,10 +11,17 @@
             "id": "24e7ece8a1f99b0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "canvas",
+              "state": {
+                "file": "MapaConceptual/MapaConceptualIntegrador.canvas",
+                "viewState": {
+                  "x": -67.5,
+                  "y": -457.5,
+                  "zoom": -1.4411694122445688
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "MapaConceptualIntegrador"
             }
           }
         ]
@@ -95,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MapaConceptual/MapaConceptualIntegrador.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MapaConceptual/MapaConceptualIntegrador.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "MapaConceptual/MapaConceptualIntegrador.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,33 +191,36 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0d1282fc0671e3d0",
+  "active": "24e7ece8a1f99b0d",
   "lastOpenFiles": [
+    "Conceptos/Datos Abiertos.md",
+    "MapaConceptual/MapaConceptualIntegrador.canvas",
+    "Conceptos/Datos Estructurados.md",
+    "Conceptos/Tipos de Datos.md",
+    "Conceptos/Visualización de Información.md",
+    "Conceptos/Visualización de Datos.md",
+    "Conceptos/Usuarios.md",
+    "Conceptos/Storytelling.md",
+    "Conceptos/Recolección de Datos.md",
+    "Conceptos/Proceso de Trabajo con Datos.md",
+    "Conceptos/Información.md",
+    "Conceptos/Herramientas de Visualización.md",
+    "Conceptos/Infografía.md",
+    "Conceptos/Diseño de información.md",
+    "Conceptos/Datos No Estructurados.md",
+    "Conceptos/Datos.md",
+    "Conceptos/Conocimiento.md",
+    "Conceptos/Comunicación Visual.md",
+    "Conceptos/Calidad de Datos.md",
+    "Conceptos/Buenas Prácticas.md",
+    "Conceptos/Big Data.md",
+    "Sin título.canvas",
+    "MapaConceptual",
     "Reflexiones",
     "Referencias/GraphView.png",
     "Referencias",
     "MOC/Mapa General de Visualización de Datos.md",
     "MOC",
-    "Conceptos/Visualización de Datos.md",
-    "Conceptos/Visualización de Información.md",
-    "Conceptos/Usuarios.md",
-    "Conceptos/Tipos de Datos.md",
-    "Conceptos/Recolección de Datos.md",
-    "Conceptos/Storytelling.md",
-    "Conceptos/Proceso de Trabajo con Datos.md",
-    "Conceptos/Información.md",
-    "Conceptos/Herramientas de Visualización.md",
-    "Conceptos/Diseño de información.md",
-    "Conceptos/Infografía.md",
-    "Conceptos/Datos Estructurados.md",
-    "Conceptos/Datos.md",
-    "Conceptos/Datos No Estructurados.md",
-    "Conceptos/Datos Abiertos.md",
-    "Conceptos/Conocimiento.md",
-    "Conceptos/Calidad de Datos.md",
-    "Conceptos/Comunicación Visual.md",
-    "Conceptos/Buenas Prácticas.md",
-    "Conceptos/Big Data.md",
     "Conceptos",
     "VisualizacionDatos_Carrasco_Bryan/Referencias/GraphView.png",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Datos.md",
