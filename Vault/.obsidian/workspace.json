@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VisualizacionDatos_Carrasco_Bryan/Conceptos/Big Data.md",
+                "file": "VisualizacionDatos_Carrasco_Bryan/MOC/Mapa General de Visualización de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Data"
+              "title": "Mapa General de Visualización de Datos"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VisualizacionDatos_Carrasco_Bryan/Conceptos/Big Data.md",
+                "file": "VisualizacionDatos_Carrasco_Bryan/MOC/Mapa General de Visualización de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VisualizacionDatos_Carrasco_Bryan/Conceptos/Big Data.md",
+                "file": "VisualizacionDatos_Carrasco_Bryan/MOC/Mapa General de Visualización de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VisualizacionDatos_Carrasco_Bryan/Conceptos/Big Data.md",
+                "file": "VisualizacionDatos_Carrasco_Bryan/MOC/Mapa General de Visualización de Datos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,12 @@
   },
   "active": "24e7ece8a1f99b0d",
   "lastOpenFiles": [
-    "VisualizacionDatos_Carrasco_Bryan/Conceptos/Proceso de Trabajo con Datos.md",
+    "VisualizacionDatos_Carrasco_Bryan/Conceptos/Datos.md",
+    "VisualizacionDatos_Carrasco_Bryan/Conceptos/Información.md",
+    "VisualizacionDatos_Carrasco_Bryan/MOC/Mapa General de Visualización de Datos.md",
+    "Datos.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Big Data.md",
+    "VisualizacionDatos_Carrasco_Bryan/Conceptos/Proceso de Trabajo con Datos.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Buenas Prácticas.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Herramientas de Visualización.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Usuarios.md",
@@ -203,17 +207,14 @@
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Visualización de Información.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Visualización de Datos.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Tipos de Datos.md",
-    "VisualizacionDatos_Carrasco_Bryan/Conceptos/Información.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Diseño de información.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Datos No Estructurados.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Datos Estructurados.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Datos Abiertos.md",
-    "VisualizacionDatos_Carrasco_Bryan/Conceptos/Datos.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Conocimiento.md",
     "VisualizacionDatos_Carrasco_Bryan/MOC/Mapa General de visualización de Datos.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Conceptos_Unidad_1.md",
     "VisualizacionDatos_Carrasco_Bryan/Bienvenido.md",
-    "Datos.md",
     "VisualizacionDatos_Carrasco_Bryan/MOC/MOC_Principal.md"
   ]
 }
