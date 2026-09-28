@@ -181,8 +181,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "24e7ece8a1f99b0d",
+  "active": "0d1282fc0671e3d0",
   "lastOpenFiles": [
+    "VisualizacionDatos_Carrasco_Bryan/Referencias/GraphView.png",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Datos.md",
     "Datos.md",
     "VisualizacionDatos_Carrasco_Bryan/MOC/Mapa General de Visualización de Datos.md",
@@ -207,7 +208,6 @@
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Conocimiento.md",
     "VisualizacionDatos_Carrasco_Bryan/MOC/Mapa General de visualización de Datos.md",
     "VisualizacionDatos_Carrasco_Bryan/Conceptos/Conceptos_Unidad_1.md",
-    "VisualizacionDatos_Carrasco_Bryan/Bienvenido.md",
-    "VisualizacionDatos_Carrasco_Bryan/MOC/MOC_Principal.md"
+    "VisualizacionDatos_Carrasco_Bryan/Bienvenido.md"
   ]
 }
