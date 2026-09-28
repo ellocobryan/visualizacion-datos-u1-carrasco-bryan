@@ -16,7 +16,7 @@
                 "file": "MapaConceptual/MapaConceptualIntegrador.canvas",
                 "viewState": {
                   "x": -67.5,
-                  "y": -710.0330188679245,
+                  "y": -204.96698113207543,
                   "zoom": -1.4411694122445688
                 }
               },
@@ -191,7 +191,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "24e7ece8a1f99b0d",
+  "active": "0d1282fc0671e3d0",
   "lastOpenFiles": [
     "Conceptos/Datos Abiertos.md",
     "MapaConceptual/MapaConceptualIntegrador.canvas",
